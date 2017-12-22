@@ -1,0 +1,1 @@
+["CBA_loadingScreenDone", GRAD_intro_fnc_showIntro] call CBA_fnc_addEventHandler;
